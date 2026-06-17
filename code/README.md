@@ -2,7 +2,7 @@
 The code in this director was generated in collaboration with ChatGPT 5.4. MIT License.
 
 # Notes
-replace_digits.batch.py and replace_digits_solutions_batch.py are python scripts that were used to swap Aarabic numberals for Mongolian script numberals in the Sudoku SVG files (example SVG files - #1.SVG and #1_solved.svg - are included; the scripts, however, assume that 99 SVG files are in the source directory).
+replace_digits.batch.py and replace_digits_solutions_batch.py are python scripts that were used to swap Aarabic numberals for Mongolian numerals in the Sudoku SVG files (example SVG files - #1.SVG and #1_solved.svg - are included; the scripts, however, assume that 99 SVG files are in the source directory).
 
 the .bat files further processed the SVG files using Inkscape (https://inkscape.org/) after running the python scripts. This step was required for Scribus (https://sourceforge.net/projects/scribus/) to properly display the SVG files. 
 
