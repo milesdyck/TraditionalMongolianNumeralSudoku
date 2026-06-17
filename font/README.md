@@ -1,7 +1,7 @@
 # Khatan_Numerals
 
 Khatan_Numerals is an OpenType font containing custom glyphs for the Mongolian digit code points U+1811 to U+1819. Copyright (c) 2026 Altanzaya Yansanjav,
-with Reserved Font Name "Khatan_Numerals". "Khatan" is the Mongolian word for queen.
+with reserved font names "Khatan_Numerals" and "Khatan".
 
 ## License
 
@@ -11,4 +11,4 @@ You may use, study, modify, embed, and redistribute this font under the terms of
 
 ## Creation Notes
 
-Mongolian script numerals are available in the Windows Character Map as unicode characters 0x1811 through 0x1819, but we did not like the generic style. We used custom numerals that Zaya “drew” by hand on her iPad using Procreate (https://procreate.com/) and exported them as image files. These image files were imported into the open-source font editor, FontForge (https://fontforge.org/en-US/) into inicode locations 0x1811 through 0x1819. The new OpenType Font (OTF) was generated with FontForge, and installed in Windows (settings/personalization/fonts). 
+Mongolian script numerals are available in the Windows Character Map as unicode characters 0x1811 through 0x1819, but we did not like the generic style. We used custom numerals that Zaya “drew” by hand on her iPad using Procreate (https://procreate.com/) and exported them as image files. These image files were imported into the open-source font editor, FontForge (https://fontforge.org/en-US/) into inicode locations 0x1811 through 0x1819. The new OpenType Font (OTF) was generated with FontForge, and installed in Windows -> settings/personalization/fonts. 
