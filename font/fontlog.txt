@@ -1,5 +1,5 @@
 FONTLOG for Khatan Numerals
 
-Version 1.000 - 2026-06-15
+Version 1.000 - 2026-06-16
 - Initial release.
 - Includes glyphs for Mongolian digit code points U+1811 to U+1819.
