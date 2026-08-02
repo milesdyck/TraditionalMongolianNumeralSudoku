@@ -1,5 +1,5 @@
 # TraditionalMongolianNumeralSudoku
-This is the supporting repository for the book entitled, Traditional Mongolian Numeral Sudoku, by Altanzaya Yansanjav (https://www.instagram.com/zayansan), Terbish Batbold (https://www.instagram.com/terrybatbold), Miles Dyck, Tergel Batbold
+This is the supporting repository for the book entitled, Traditional Mongolian Numeral Sudoku (https://www.etsy.com/ca/listing/4545347182/traditional-mongolian-numeral-sudoku), by Altanzaya Yansanjav (https://www.instagram.com/zayansan), Terbish Batbold (https://www.instagram.com/terrybatbold), Miles Dyck, Tergel Batbold
 
 ## Some notes on how the book was created
 
